@@ -3,7 +3,7 @@ By: Andrew Xu, Eshan Dahal, Aldo Badano
 
 
 # Purpose
-This Folder contains Open-Source Data Analysis Software for Spectroscopic Photon Counting. It transfers Hexitech files into graphable data to detect radiation.
+This repository contains Open-Source Data Analysis Software I wrote in Python and MATLAB to conduct Spectroscopic Photon Counting. It transfers Hexitech files into graphable data to detect radiation.
 
 
 Structure: There are three python files: function, main, and hxtV3Read.
@@ -19,12 +19,12 @@ Input: Once the program is run, it will prompt the user to browse two hexitech f
 
 
 Output: 6 graphs will be produced from the inputs:
-Graph #1: A color mesh of the counts for each pixel of each Energy window interval created
-Graph #2: A color mesh of the counts for each pixel of the overall interval (bin start to bin end)
-Graph #3: A reference graph for graph #2
-Graph #4: 3D Graph of the combined counts of every possible interval created through energy window
-Graph #5: The difference in counts for each pixel between the sample and the background data
-Graph #6: The counts for both the sample and background data (2 lines).
+- Graph #1: A color mesh of the counts for each pixel of each Energy window interval created
+- Graph #2: A color mesh of the counts for each pixel of the overall interval (bin start to bin end)
+- Graph #3: A reference graph for graph #2
+- Graph #4: 3D Graph of the combined counts of every possible interval created through energy window
+- Graph #5: The difference in counts for each pixel between the sample and the background data
+- Graph #6: The counts for both the sample and background data (2 lines).
 
 
 # How Different Inputs will Change the Way the Program Analyzes the Data:
