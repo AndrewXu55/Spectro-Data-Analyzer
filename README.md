@@ -1,20 +1,20 @@
 # FDA ORISE Intern Code
 By: Andrew Xu, Eshan Dahal, Aldo Badano
 
-**Purpose
+**Purpose**
 This repository contains Open-Source Data Analysis Software I wrote in Python and MATLAB to conduct Spectroscopic Photon Counting. It transfers Hexitech files into graphable data to detect radiation.
 
-# Structure
+# Structure and Input/Output
 There are three python files: function, main, and hxtV3Read. "function.py" contains all the data analysis and plotting, "main.py" contains the user interface components, and "hxtV3Read.py" contains the hexitech file reading code. To run the program, the user must run 'main.py'.
 
-# Input
+**Input**
 Once the program is run, it will prompt the user to browse two hexitech files for analysis and 4 inputs:
 1. Bin Start: The bin layer the program will begin analysis on
 2. Bin End: The bin layer the program will end analysis on
 3. Bin Width: The bin layer interval the program will do analysis on, which is bin start to bin end.
 4. Energy Window: The bin layer interval the program will do analysis and put onto 3d graphs.
 
-# Output
+**Output**
 6 graphs will be produced from the inputs:
 - Graph #1: A color mesh of the counts for each pixel of each Energy window interval created
 - Graph #2: A color mesh of the counts for each pixel of the overall interval (bin start to bin end)
@@ -23,7 +23,7 @@ Once the program is run, it will prompt the user to browse two hexitech files fo
 - Graph #5: The difference in counts for each pixel between the sample and the background data
 - Graph #6: The counts for both the sample and background data (2 lines).
 
-# Sample Input and Output:
+**Sample Input and Output**
 Background Hexitech File: "2020_aug31_1mA_300s_syringe_empty.hxt"
 Sample Hexitech File: "2020_aug31_1mA_300s_caffeine.hxt"
 Bin Start: 30
