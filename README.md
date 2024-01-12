@@ -1,8 +1,9 @@
-# This Folder contains Open-Source Data Analysis Software for Spectroscopic Photon Counting
-# By: Andrew Xu, Eshan Dahal, Aldo Badano
+# FDA ORISE Intern Code
+By: Andrew Xu, Eshan Dahal, Aldo Badano
 
 
-Purpose: Transfer Hexitech files into graphable data to detect radiation.
+# Purpose
+This Folder contains Open-Source Data Analysis Software for Spectroscopic Photon Counting. It transfers Hexitech files into graphable data to detect radiation.
 
 
 Structure: There are three python files: function, main, and hxtV3Read.
