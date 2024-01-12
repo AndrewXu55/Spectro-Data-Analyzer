@@ -6,19 +6,19 @@ By: Andrew Xu, Eshan Dahal, Aldo Badano
 This repository contains Open-Source Data Analysis Software I wrote in Python and MATLAB to conduct Spectroscopic Photon Counting. It transfers Hexitech files into graphable data to detect radiation.
 
 
-Structure: There are three python files: function, main, and hxtV3Read.
-"function.py" contains all the data analysis and plotting, "main.py" contains the user interface components,
-and "hxtV3Read.py" contains the hexitech file reading code. To run the program, the user must run 'main.py'.
+# Structure
+There are three python files: function, main, and hxtV3Read. "function.py" contains all the data analysis and plotting, "main.py" contains the user interface components, and "hxtV3Read.py" contains the hexitech file reading code. To run the program, the user must run 'main.py'.
 
-
-Input: Once the program is run, it will prompt the user to browse two hexitech files for analysis and 4 inputs:
+# Input
+Once the program is run, it will prompt the user to browse two hexitech files for analysis and 4 inputs:
 1. Bin Start: The bin layer the program will begin analysis on
 2. Bin End: The bin layer the program will end analysis on
 3. Bin Width: The bin layer interval the program will do analysis on, which is bin start to bin end.
 4. Energy Window: The bin layer interval the program will do analysis and put onto 3d graphs.
 
 
-Output: 6 graphs will be produced from the inputs:
+# Output
+6 graphs will be produced from the inputs:
 - Graph #1: A color mesh of the counts for each pixel of each Energy window interval created
 - Graph #2: A color mesh of the counts for each pixel of the overall interval (bin start to bin end)
 - Graph #3: A reference graph for graph #2
