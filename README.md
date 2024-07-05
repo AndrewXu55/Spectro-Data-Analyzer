@@ -14,7 +14,7 @@ There are three Python files: function, main, and hxtV3Read. Here is what you'll
 4. `hxtV3Read.py`: contains the Hexitech file reading code.
 To run the program, the user must run 'main.py'.
 
-### Input
+## Input
 
 Once the program is run, it will prompt the user to browse two Hexitech files for analysis and 4 inputs:
 1. Bin Start: The bin layer of the program will begin analysis on
@@ -22,7 +22,7 @@ Once the program is run, it will prompt the user to browse two Hexitech files fo
 3. Bin Width: The bin layer interval the program will analyze, from bin start to bin end.
 4. Energy Window: The bin layer interval the program will analyze and put onto 3d graphs.
 
-**Output**
+## Output
 
 6 graphs will be produced from the inputs:
 - Graph #1: A color mesh of the counts for each pixel of each Energy window interval created
@@ -32,10 +32,7 @@ Once the program is run, it will prompt the user to browse two Hexitech files fo
 - Graph #5: The difference in counts for each pixel between the sample and the background data
 - Graph #6: The counts for both the sample and background data (2 lines).
 
-Here is an example of all the figures that are printed:
-
-
-# Sample Input and Output
+## Sample Input and Output
 
 - Background Hexitech File: "2020_aug31_1mA_300s_syringe_empty.hxt"
 - Sample Hexitech File: "2020_aug31_1mA_300s_caffeine.hxt"
