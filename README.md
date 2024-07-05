@@ -17,10 +17,10 @@ To run the program, the user must run 'main.py'.
 ## Input
 
 Once the program is run, it will prompt the user to browse two Hexitech files for analysis and 4 inputs:
-1. Bin Start: The bin layer of the program will begin analysis on
-2. Bin End: The bin layer of the program will end analysis on
-3. Bin Width: The bin layer interval the program will analyze, from bin start to bin end.
-4. Energy Window: The bin layer interval the program will analyze and put onto 3d graphs.
+1. **Bin Start**: The bin layer of the program will begin analysis on
+2. **Bin End**: The bin layer of the program will end analysis on
+3. **Bin Width**: The bin layer interval the program will analyze, from bin start to bin end.
+4. **Energy Window**: The bin layer interval the program will analyze and put onto 3d graphs.
 
 ## Output
 
