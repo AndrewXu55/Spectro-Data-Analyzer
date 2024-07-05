@@ -30,10 +30,10 @@ Once the program is run, it will prompt the user to browse two Hexitech files fo
 |:-------------:|:-------------:|
 | 1 | Color mesh of the counts for each pixel of each Energy window interval created |
 | 2 | Color mesh of the counts for each pixel of the overall interval (bin start to bin end) |
-| 3 | Reference graph for graph #2 |
+| 3 | Color mesh of the processed data |
 | 4 | 3D Graph of the combined counts of every possible interval created through the energy window |
-| 5 | The difference in counts for each pixel between the sample and the background data |
-| 6 | The counts for both the sample and background data (2 lines) |
+| 5 | Line Graph of the difference in counts for each pixel between the sample and the background data |
+| 6 | Line Graph of the counts for both the sample and background data |
 
 ## Sample Input and Output
 
