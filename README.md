@@ -37,12 +37,12 @@ Once the program is run, it will prompt the user to browse two Hexitech files fo
 
 ## Sample Input and Output
 
-- Background Hexitech File: "2020_aug31_1mA_300s_syringe_empty.hxt"
-- Sample Hexitech File: "2020_aug31_1mA_300s_caffeine.hxt"
-- Bin Start: 30
-- Bin End: 45
-- Bin Width: 1
-- Energy Window: 5
+- **Background Hexitech File:** "2020_aug31_1mA_300s_syringe_empty.hxt"
+- **Sample Hexitech File:** "2020_aug31_1mA_300s_caffeine.hxt"
+- **Bin Start:** 30
+- **Bin End:** 45
+- **Bin Width:** 1
+- **Energy Window:** 5
 
   
 | # | Figure | # | Figure | # | Figure |
