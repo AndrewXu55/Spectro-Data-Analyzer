@@ -174,7 +174,6 @@ def function(binStart, binEnd, binWidth, energyWindow, backgroundFilePath, sampl
             for i in range(0, len(Ei)):
                 q[i][jj - 1][ii - 1] = 4 * math.pi * 1 / 1.24 * bins1[Ei[i]] * math.sin(
                     math.radians(theta[jj - 1][ii - 1] / 2))
-                
     # Creating Figure 4 Color Mesh
     plt.figure(figsize=(7, 6))
     plt.pcolormesh(theta, cmap='jet', vmin=0)
