@@ -4,19 +4,23 @@ Mentor: Eshan Dahal with Assistance from Aldo Badano
 
 **Purpose**
 
-This repository contains Open-Source Data Analysis Software in Python to conduct Spectroscopic Photon Counting Analysis with a built-in UI using Python libraries: `Tkinter`, `NumPy`, and `Matplotlib`. It transfers Hexitech files into graphable data to detect radiation.
+This repository contains Open-Source Data Analysis Software using Python libraries (`Tkinter`, `NumPy`, and `Matplotlib`) to conduct Spectroscopic Photon Counting Analysis with a built-in UI. It transfers Hexitech files into graphable data to detect radiation.
 
 # Structure and Input/Output
 
-There are three python files: function, main, and hxtV3Read. "function.py" contains all the data analysis and plotting, "main.py" contains the user interface components, and "hxtV3Read.py" contains the hexitech file reading code. To run the program, the user must run 'main.py'.
+There are three Python files: function, main, and hxtV3Read. Here is what you'll find in each:
+1. `main.py`: User interface components
+2. `function.py`: data analysis and plotting
+4. `hxtV3Read.py`: contains the Hexitech file reading code.
+To run the program, the user must run 'main.py'.
 
 **Input**
 
-Once the program is run, it will prompt the user to browse two hexitech files for analysis and 4 inputs:
-1. Bin Start: The bin layer the program will begin analysis on
-2. Bin End: The bin layer the program will end analysis on
-3. Bin Width: The bin layer interval the program will do analysis on, which is bin start to bin end.
-4. Energy Window: The bin layer interval the program will do analysis and put onto 3d graphs.
+Once the program is run, it will prompt the user to browse two Hexitech files for analysis and 4 inputs:
+1. Bin Start: The bin layer of the program will begin analysis on
+2. Bin End: The bin layer of the program will end analysis on
+3. Bin Width: The bin layer interval the program will analyze, from bin start to bin end.
+4. Energy Window: The bin layer interval the program will analyze and put onto 3d graphs.
 
 **Output**
 
