@@ -40,7 +40,7 @@ The Outputted Graphs are in the "Figures" folder. Here is an example of all the 
 
 | # | Figure |
 | ------------- | ------------- |
-| 1  | <img src="Figures/Figure_1.png" alt="1" width="80%"/>  |
+| 1  | <img src="Figures/Figure_1.png" alt="1" style="width:200px;"/>  |
 | 2  | <img src="Figures/Figure_2.png" alt="2" width="80%"/>  |
 | 3  | <img src="Figures/Figure_3.png" alt="3" width="80%"/>  |
 | 4  | <img src="Figures/Figure_4.png" alt="4" width="80%"/>  |
