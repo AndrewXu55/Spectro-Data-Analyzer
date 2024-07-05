@@ -38,9 +38,8 @@ Once the program is run, it will prompt the user to browse two hexitech files fo
 
 The Outputted Graphs are in the "Figures" folder. Here is an example of all the figures that are printed:
 
-| # | Figure | # | Figure |
-| ------------- | ------------- | ------------- | ------------- |
-| 1  |: <img src="Figures/Figure_1.png" alt="1" style="width:300px;"/>  :| 2  | <img src="Figures/Figure_2.png" alt="2" style="width:300px;"/>  |
-| 3  | <img src="Figures/Figure_3.png" alt="3" style="width:300px;"/>  | 4  | <img src="Figures/Figure_4.png" alt="4" style="width:300px;"/>  |
-| 5  | <img src="Figures/Figure_5.png" alt="5" style="width:300px;"/>  | 6  | <img src="Figures/Figure_6.png" alt="6" style="width:300px;"/>  |
+| # | Figure | # | Figure | # | Figure |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1  |: <img src="Figures/Figure_1.png" alt="1" style="width:250px;"/>  :| 2  | <img src="Figures/Figure_2.png" alt="2" style="width:250px;"/>  | 3  | <img src="Figures/Figure_3.png" alt="3" style="width:300px;"/>  |
+| 4  | <img src="Figures/Figure_4.png" alt="4" style="width:300px;"/>  | 5  | <img src="Figures/Figure_5.png" alt="5" style="width:300px;"/>  | 6  | <img src="Figures/Figure_6.png" alt="6" style="width:300px;"/>  |
 
