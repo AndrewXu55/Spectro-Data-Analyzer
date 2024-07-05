@@ -1,8 +1,9 @@
 # FDA ORISE Intern Code
-By: Andrew Xu
-Mentor: Eshan Dahal with Assistance from Aldo Badano
+**By:** Andrew Xu
 
-**Purpose**
+**Mentor:** Eshan Dahal with Assistance from Aldo Badano
+
+## Purpose
 
 This repository contains Open-Source Data Analysis Software using Python libraries (`Tkinter`, `NumPy`, and `Matplotlib`) to conduct Spectroscopic Photon Counting Analysis with a built-in UI. It transfers Hexitech files into graphable data to detect radiation.
 
