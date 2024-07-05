@@ -30,7 +30,7 @@ Once the program is run, it will prompt the user to browse two hexitech files fo
 Here is an example of all the figures that are printed:
 
 
-**Sample Input and Output**
+# Sample Input and Output
 
 - Background Hexitech File: "2020_aug31_1mA_300s_syringe_empty.hxt"
 - Sample Hexitech File: "2020_aug31_1mA_300s_caffeine.hxt"
