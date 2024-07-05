@@ -38,11 +38,12 @@ Once the program is run, it will prompt the user to browse two hexitech files fo
 
 The Outputted Graphs are in the "Figures" folder. Here is an example of all the figures that are printed:
 
-<img src="Figures/Figure_1.png" alt="1" width="80%"/>
-<img src="Figures/Figure_2.png" alt="2" width="80%"/>
-<img src="Figures/Figure_3.png" alt="3" width="80%"/>
-<img src="Figures/Figure_4.png" alt="4" width="80%"/>
-<img src="Figures/Figure_5.png" alt="5" width="80%"/>
-<img src="Figures/Figure_6.png" alt="6" width="80%"/>
-
+| # | Figure |
+| ------------- | ------------- |
+| 1  | <img src="Figures/Figure_1.png" alt="1" width="80%"/>  |
+| 2  | <img src="Figures/Figure_2.png" alt="2" width="80%"/>  |
+| 3  | <img src="Figures/Figure_3.png" alt="3" width="80%"/>  |
+| 4  | <img src="Figures/Figure_4.png" alt="4" width="80%"/>  |
+| 5  | <img src="Figures/Figure_5.png" alt="5" width="80%"/>  |
+| 6  | <img src="Figures/Figure_6.png" alt="6" width="80%"/>  |
 
