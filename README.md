@@ -14,7 +14,7 @@ There are three Python files: function, main, and hxtV3Read. Here is what you'll
 4. `hxtV3Read.py`: contains the Hexitech file reading code.
 To run the program, the user must run 'main.py'.
 
-**Input**
+## Input
 
 Once the program is run, it will prompt the user to browse two Hexitech files for analysis and 4 inputs:
 1. Bin Start: The bin layer of the program will begin analysis on
