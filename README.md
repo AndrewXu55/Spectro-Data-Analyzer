@@ -5,7 +5,7 @@
 
 ## Purpose
 
-This repository contains Open-Source Data Analysis Software using Python libraries (`Tkinter`, `NumPy`, and `Matplotlib`) to conduct Spectroscopic Photon Counting Analysis with a built-in UI. It transfers Hexitech files into graphable data to detect radiation. This was part of my time as an ORISE intern at FDA.
+This repository contains Open-Source Data Analysis Software using Python libraries (`Tkinter`, `NumPy`, and `Matplotlib`) to conduct Spectroscopic Photon Counting Analysis with a built-in UI. It transfers Hexitech files into graphable data to detect radiation. I did this project during my time as an ORISE intern at FDA.
 
 # Structure and Input/Output
 
