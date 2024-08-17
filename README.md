@@ -1,11 +1,11 @@
 # Spectroscopic Data Analyzer
 **By:** Andrew Xu
 
-**Mentor:** Eshan Dahal with Assistance from Aldo Badano
+**Mentor:** Eshan Dahal with Assistance from Aldo Badano and Sabri Amer.
 
 ## Purpose
 
-This repository contains Open-Source Data Analysis Software using Python libraries (`Tkinter`, `NumPy`, and `Matplotlib`) to conduct Spectroscopic Photon Counting Analysis with a built-in UI. It transfers Hexitech files into graphable data to detect radiation. I did this project during my time as an ORISE intern at FDA.
+This repository contains Open-Source Data Analysis Software using Python libraries (`Tkinter`, `NumPy`, and `Matplotlib`) to conduct Spectroscopic Photon Counting Analysis with a built-in UI. It transfers Hexitech files into graphable data to detect radiation. I did this project during my time as an ORISE intern at FDA. This project was later further developed and published on MDPI ([here](https://www.mdpi.com/1424-8220/24/16/5307)).
 
 # Structure and Input/Output
 
